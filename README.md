@@ -8,4 +8,5 @@ Features
 * Customizable: Feel free to customize the app further to suit your needs or integrate additional features as desired.
 
 Usage
+
 To use the Modern News Web App, simply open the index.html file in your web browser. From there, you can browse through the available news articles and click on them to read the full content.
